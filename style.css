@@ -55,7 +55,7 @@ color: #0087cc;
 /*menu*/
 .main-menu{
   background-color: #0087cc;
-  height: 3em;
+  height: 2.5em;
 }
 
 .main-menu ul{
@@ -63,7 +63,9 @@ color: #0087cc;
   list-style-type: none;
   text-align: right;
   padding: 0.6em ;
-  border: 1px solid red;
+
+  margin: 0 auto;
+
 
 }
 

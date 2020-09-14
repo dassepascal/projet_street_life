@@ -108,6 +108,11 @@ color: #0087cc;
   width:100%;
   padding: 1em 0;
 }
+.bloc p{
+  color: #555;
+  font-size: 0.6em;
+  line-height: 2em;
+}
 
 
 

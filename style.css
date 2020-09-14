@@ -134,5 +134,38 @@ flex-flow: row;
   color: #ff7b29;
 
 }
+/* footer */
+.footer{
+
+
+  text-align: center;
+}
+.footer a{
+  display: block;
+font-size:1em;
+color: #0087cc;
+  text-decoration: none;
+
+font-weight: bold;
+
+
+}
+.footer p{
+  color: #555;
+  font-size: 0.6em ;
+}
+.container-footer{
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  padding: 0.6em;
+}
+.footer ul{
+  list-style-type: none;
+}
+.flex-footer a{
+  padding: 0.2em;
+}
 
 
